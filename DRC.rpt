@@ -1,0 +1,76 @@
+** Drc report for C:\Users\macie\Downloads\Projekt_elektryczny\projekt.kicad_pcb **
+** Created on 2023-05-25 23:23:16 **
+
+** Found 20 DRC violations **
+[silk_edge_clearance]: Warstwa opisowa przycięta przez obrys płytki
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(20,0000 mm, 20,0000 mm): Prostokąt na Edge.Cuts
+    @(37,7444 mm, 20,5496 mm): Oznaczenie 'R53'
+[starved_thermal]: Niekompletne łączenie termiczne ze strefą (ograniczenia w konfiguracji strategii wypełniania min. liczba łącz 2; obecnie 1)
+    Rule: ograniczenia w konfiguracji strategii wypełniania; Severity: error
+    @(169,9260 mm, 20,0660 mm): Strefa [GND] na F.Cu
+    @(44,5366 mm, 44,7702 mm): Pole PTH 2 [GND] na U4
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(101,6269 mm, 67,2576 mm): Linia na F.Silkscreen
+    @(101,8540 mm, 67,8952 mm): Oznaczenie 'R24'
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(101,8540 mm, 64,8726 mm): Oznaczenie 'R23'
+    @(101,5761 mm, 64,2858 mm): Linia na F.Silkscreen
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(101,8032 mm, 61,9008 mm): Oznaczenie 'R22'
+    @(101,5507 mm, 61,2632 mm): Linia na F.Silkscreen
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(101,7778 mm, 58,8782 mm): Oznaczenie 'R21'
+    @(101,5253 mm, 58,2914 mm): Linia na F.Silkscreen
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(101,7524 mm, 55,9064 mm): Oznaczenie 'R20'
+    @(101,4745 mm, 55,2688 mm): Linia na F.Silkscreen
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(101,4491 mm, 49,2744 mm): Linia na F.Silkscreen
+    @(101,6762 mm, 49,8866 mm): Oznaczenie 'R18'
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(101,4491 mm, 52,2716 mm): Linia na F.Silkscreen
+    @(101,7016 mm, 52,8838 mm): Oznaczenie 'R19'
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(120,6500 mm, 52,8838 mm): Oznaczenie 'R41'
+    @(120,4229 mm, 52,2462 mm): Linia na F.Silkscreen
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(120,6500 mm, 49,8612 mm): Oznaczenie 'R40'
+    @(120,3975 mm, 49,2490 mm): Linia na F.Silkscreen
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(120,7008 mm, 58,9036 mm): Oznaczenie 'R43'
+    @(120,4229 mm, 58,2660 mm): Linia na F.Silkscreen
+[silk_overlap]: Opisy nakładają się
+    Rule: ograniczenia w konfiguracji płytki dla opisów; Severity: warning
+    @(120,6500 mm, 55,8810 mm): Oznaczenie 'R42'
+    @(120,4229 mm, 55,2688 mm): Linia na F.Silkscreen
+[copper_sliver]: Płat miedzi (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Płat miedzi (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Płat miedzi (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Płat miedzi (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Płat miedzi (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Płat miedzi (F.Cu)
+    Local override; Severity: warning
+[copper_sliver]: Płat miedzi (F.Cu)
+    Local override; Severity: warning
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
